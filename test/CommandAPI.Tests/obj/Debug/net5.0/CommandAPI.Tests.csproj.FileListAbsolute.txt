@@ -106,3 +106,10 @@ C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0
 C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\ref\CommandAPI.Tests.dll
 C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\CommandAPI.Tests.pdb
 C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\CommandAPI.Tests.genruntimeconfig.cache
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
