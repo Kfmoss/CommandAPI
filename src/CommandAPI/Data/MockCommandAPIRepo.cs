@@ -22,7 +22,7 @@ namespace CommandAPI.Data
                 new Command{
                     Id=0, HowTo="How to generate a migration",
                     CommandLine="dotnet ef migrations add <Name of Migration>",
-                    Platform=".NET Core EF",},
+                    Platform=".NET Core EF"},
                 new Command{
                     Id=1, HowTo="Run Migrations",
                     CommandLine="dotnet ef database update",
@@ -34,14 +34,13 @@ namespace CommandAPI.Data
 
             };
             return commands;
-            // throw new System.NotImplementedException();
         }
 
         public Command GetCommandById(int Id)
         {
             return new Command{
                 Id=0, HowTo="How to generate a migration",
-                CommandLine="dotnet ef migrations add <Name of Migration",
+                CommandLine="dotnet ef migrations add <Name of Migration>",
                 Platform=".NET Core EF"
             };
             // throw new System.NotImplementedException();
