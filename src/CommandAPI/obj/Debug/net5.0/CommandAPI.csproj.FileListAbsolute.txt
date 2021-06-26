@@ -31,3 +31,5 @@ C:\Users\berli\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql
 C:\Users\berli\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\berli\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\berli\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
+C:\Users\berli\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\berli\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
