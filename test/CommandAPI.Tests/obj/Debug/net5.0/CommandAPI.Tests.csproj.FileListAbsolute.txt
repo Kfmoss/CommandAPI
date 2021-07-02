@@ -118,3 +118,5 @@ C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0
 C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\berli\Desktop\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Moq.dll
